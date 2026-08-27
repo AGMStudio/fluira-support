@@ -6,6 +6,7 @@
   --secondary: #625d72;
   --line: rgba(18, 13, 38, 0.12);
   --indigo: #6b59fa;
+  --link: #5740df;
   --coral: #ff577a;
   --mint: #1accdb;
   --amber: #ffa12e;
@@ -35,7 +36,7 @@ body {
 }
 
 a {
-  color: var(--indigo);
+  color: var(--link);
   text-underline-offset: 0.18em;
 }
 
@@ -114,7 +115,7 @@ a:hover { text-decoration-thickness: 0.14em; }
 
 .eyebrow {
   margin: 0 0 0.55rem;
-  color: var(--indigo);
+  color: var(--link);
   font-size: 0.82rem;
   font-weight: 780;
   letter-spacing: 0.1em;
@@ -250,6 +251,7 @@ h1 {
     --text: #fbfaff;
     --secondary: #c0b9d1;
     --line: rgba(239, 235, 255, 0.13);
+    --link: #9b90ff;
     --shadow: 0 20px 56px rgba(0, 0, 0, 0.27);
   }
 }
