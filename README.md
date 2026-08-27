@@ -21,13 +21,15 @@ la preferencia de la persona.
 - Base HTTPS prevista: `https://agmstudio.github.io/fluira-support`.
 - Canal público de soporte y privacidad:
   `https://github.com/AGMStudio/fluira-support/issues/new`.
+- Email público de soporte y privacidad: `adrigm.admin@gmail.com`.
 - Titular público: `Adrian Guerra Marrero`.
 - Copyright de la ficha: `2026 Adrian Guerra Marrero`.
 
 GitHub Issues muestra las consultas públicamente, por lo que todas las páginas
 avisan de no incluir títulos, notas, historial, copias u otros datos sensibles.
-No se publica ningún email, teléfono ni dirección. El contacto privado de App
-Review pertenece a App Store Connect, no a este sitio.
+El email de soporte se publica con autorización expresa. El teléfono y la
+dirección, así como el contacto privado de App Review, no forman parte de este
+sitio.
 
 ## Publicación
 
